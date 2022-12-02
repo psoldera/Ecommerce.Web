@@ -1,0 +1,42 @@
+﻿@inherits LayoutComponentBase
+@inject LoginContainer loginContainer
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <CarrinhoMenu></CarrinhoMenu>
+        </div>
+        @if(!loginContainer.Logado)
+        {
+            <div class="top-row px-4">
+                <Login></Login>
+            </div>
+        }
+        @if (loginContainer.Logado)
+        {
+            <div class="top-row px-4">
+                <button type="button" class="btn btn-danger" @onclick="Logout">
+                    <i class="fa-solid fa-right-from-bracket"></i>
+                    <a href="/">Logout</a>
+                </button>
+            
+        </div>
+        }
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+
+@code
+{
+    public void Logout()
+    {
+        loginContainer.Logado = false;
+    }
+}

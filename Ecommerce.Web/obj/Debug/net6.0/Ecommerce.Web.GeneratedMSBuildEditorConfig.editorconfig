@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Ecommerce.Web
+build_property.RootNamespace = Ecommerce.Web
+build_property.ProjectDir = C:\Users\Pichau\Documents\VS\Ecommerce\Ecommerce.Web\Ecommerce.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Pichau\Documents\VS\Ecommerce\Ecommerce.Web\Ecommerce.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Pages/Catalogo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0YWxvZ28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Pages/ProdutoDetalhes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b0RldGFsaGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Shared/CarrinhoMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENhcnJpbmhvTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Shared/ExibirErro.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV4aWJpckVycm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Shared/ExibirSpinner.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV4aWJpclNwaW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Shared/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Pages/CarrinhoCompra.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FycmluaG9Db21wcmEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-l2f28ob0of
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Pages/ExibirProdutos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhpYmlyUHJvZHV0b3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-nkqvm042og
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Pages/LogIn.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nSW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-91akb26rkk
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Pages/Relatorios.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVsYXRvcmlvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-99dtig9mte
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-94j0pnlyid
+
+[C:/Users/Pichau/Documents/VS/Ecommerce/Ecommerce.Web/Ecommerce.Web/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5jy2l2xbo1

@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\obj\\Debug\\net6.0\\build-gz\\2NtX2+fC.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Ecommerce.Web.styles.css",
+      "PackagePath": "staticwebassets\\Ecommerce.Web.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Acessibilidade\\Acessibilidade1.png",
+      "PackagePath": "staticwebassets\\Imagens\\Acessibilidade\\Acessibilidade1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Acessibilidade\\Acessibilidade2.png",
+      "PackagePath": "staticwebassets\\Imagens\\Acessibilidade\\Acessibilidade2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Acessibilidade\\Acessibilidade3.png",
+      "PackagePath": "staticwebassets\\Imagens\\Acessibilidade\\Acessibilidade3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Acessibilidade\\Acessibilidade4.png",
+      "PackagePath": "staticwebassets\\Imagens\\Acessibilidade\\Acessibilidade4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Fisioterapia\\Fisioterapia1.png",
+      "PackagePath": "staticwebassets\\Imagens\\Fisioterapia\\Fisioterapia1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Fisioterapia\\Fisioterapia2.png",
+      "PackagePath": "staticwebassets\\Imagens\\Fisioterapia\\Fisioterapia2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Fisioterapia\\Fisioterapia3.png",
+      "PackagePath": "staticwebassets\\Imagens\\Fisioterapia\\Fisioterapia3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Fisioterapia\\Fisioterapia4.png",
+      "PackagePath": "staticwebassets\\Imagens\\Fisioterapia\\Fisioterapia4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Hospitalar\\Hospitalar1.png",
+      "PackagePath": "staticwebassets\\Imagens\\Hospitalar\\Hospitalar1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Hospitalar\\Hospitalar2.png",
+      "PackagePath": "staticwebassets\\Imagens\\Hospitalar\\Hospitalar2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Hospitalar\\Hospitalar3.png",
+      "PackagePath": "staticwebassets\\Imagens\\Hospitalar\\Hospitalar3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Hospitalar\\Hospitalar4.png",
+      "PackagePath": "staticwebassets\\Imagens\\Hospitalar\\Hospitalar4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Ortopedico\\Ortopedico1.png",
+      "PackagePath": "staticwebassets\\Imagens\\Ortopedico\\Ortopedico1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Ortopedico\\Ortopedico2.png",
+      "PackagePath": "staticwebassets\\Imagens\\Ortopedico\\Ortopedico2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Ortopedico\\Ortopedico3.png",
+      "PackagePath": "staticwebassets\\Imagens\\Ortopedico\\Ortopedico3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Imagens\\Ortopedico\\Ortopedico4.png",
+      "PackagePath": "staticwebassets\\Imagens\\Ortopedico\\Ortopedico4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Produmed.png",
+      "PackagePath": "staticwebassets\\Produmed.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\Spinner-2.gif.gif",
+      "PackagePath": "staticwebassets\\Spinner-2.gif.gif"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\js\\CarrinhoCompraFunctions.js",
+      "PackagePath": "staticwebassets\\js\\CarrinhoCompraFunctions.js"
+    },
+    {
+      "Id": "C:\\Users\\Pichau\\Documents\\VS\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ecommerce.Web.props",
+      "PackagePath": "build\\Ecommerce.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce.Web.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce.Web.props",
+      "PackagePath": "buildTransitive\\Ecommerce.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,140 @@
+﻿@page "/relatorios"
+@inject IClienteService clienteService
+@inject IProdutoService produtoService
+@inject LoginContainer loginContainer
+@if (loginContainer.IsAdmin)
+{
+    <h1>Relatórios</h1>
+    <br />
+    @if(Clientes == null)
+    {
+        <ExibirSpinner />
+    }
+    else
+    {
+        @if (Clientes.Count() > 0)
+        {
+            <div>
+                <h1>Clientes Cadastrados</h1>
+                <table class="table table-bordered table-striped mb-0">
+                    <tr>
+                        <th>Nome</th>
+                        <th>Email</th>
+                        <th>Senha</th>
+                    </tr>
+                    @foreach (var cliente in Clientes)
+                    {
+                        <tr>
+                            <td>@cliente.Nome</td>
+                            <td>@cliente.Email</td>
+                            <td>@cliente.Password</td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        }
+        <br />
+        @if (Produtos.Count() > 0)
+        {
+            <div>
+                <h1>Produtos Cadastrados</h1>
+                <table class="table table-bordered table-striped mb-0">
+                    <tr>
+                        <th>Nome</th>
+                        <th>Preco</th>
+                        <th>Descrição</th>
+                    </tr>
+                    @foreach (var produto in Produtos)
+                    {
+                        <tr>
+                            <td>@produto.Nome</td>
+                            <td>@produto.Preco</td>
+                            <td>@produto.Descricao</td>
+                        </tr>
+                    }
+                </table>
+                <br />
+                <button @onclick="MostrarCriar"> Adicionar Produto</button>
+                @if (CriarAMostra)
+                {
+                    <div class="backgroundPopupBox">
+                        <div class="popupCreate">
+                            <EditForm Model=@addProduto OnValidSubmit="Add">
+                                <DataAnnotationsValidator />
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <div class="form-group">
+                                    <label class="control-label">Nome</label>
+                                    <input type="text" @bind="addProduto.Nome" class="form-control" />
+                                    <span class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label">Descrição</label>
+                                    <textarea @bind="addProduto.Descricao" class="form-control" />
+                                    <span class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label">Preço</label>
+                                    <input type="text" @bind="addProduto.Preco" class="form-control" />
+                                    <span class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label">Quantidade</label>
+                                    <input type="number" @bind="addProduto.Quantidade" class="form-control" />
+                                    <span class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label">Imagem</label>
+                                    <input type="text" @bind="addProduto.ImagemUrl" class="form-control" />
+                                    <span class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label">Categoria Id</label>
+                                    <input type="number" @bind="addProduto.CategoriaId" class="form-control" />
+                                    <span class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <button type="submit" class="adicionarProduto">Adicionar</button>
+                                </div>
+
+                                <button @onclick="Sair">Sair</button>
+                                <ValidationSummary />
+                            </EditForm>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    }   
+}
+else{
+    <h1>Você não tem permissão para acessar essa página :(</h1>
+}
+
+@code {
+    public IEnumerable<ClienteDto>? Clientes { get; set; }
+    public IEnumerable<ProdutoDto>? Produtos { get; set; }
+    bool CriarAMostra = false;
+
+    ProdutoAdicionarDto addProduto = new ProdutoAdicionarDto();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Clientes = await clienteService.GetClientes();
+        Produtos = await produtoService.GetItens();
+    }
+    private void MostrarCriar()
+    {
+        CriarAMostra = true;
+    }
+
+    private void Sair()
+    {
+        CriarAMostra = false;
+    }
+
+    async Task Add()
+    {
+        var produto = await produtoService.Add(addProduto);
+    }
+
+}
